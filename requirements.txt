@@ -1,0 +1,9 @@
+scipy
+pandas
+pandasql
+nltk
+wordcloud
+haversine
+plotly
+dash
+gunicorn
